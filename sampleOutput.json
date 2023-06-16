@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Kevin Breuninger, Christina Wilkie, Jacob Pramuk",
+      "title": "Trump indictment live updates: Police boost security around Miami courthouse as arraignment nears - CNBC",
+      "description": "Former President Donald Trump will surrender in Miami as he faces 37 federal counts related to his retention of hundreds of classified documents.",
+      "url": "https://www.cnbc.com/2023/06/13/trump-indictment-live-updates-arraignment.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107254722-1686516879317-gettyimages-1258608794-Trump.jpeg?v=1686654018&w=1920&h=1080",
+      "publishedAt": "2023-06-13T14:38:00Z",
+      "content": "Donald Trump will surrender Tuesday on the first federal charges ever filed against a U.S. president, former or current.\r\nTrump will head to federal court in Miami, where he is expected to be arraign… [+2105 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": "Rebekah Valentine",
+      "title": "Xbox Game Studios Head Says Redfall Team Should Have Better Prepared to Be 'First-Party' - IGN",
+      "description": "Since Redfall launched to middling reviews and criticism of the game's bugs, co-op issues, and performance, Xbox leadership has taken responsibility for the disappointment. According to him, the Redfall team got \"tunnel vision,\" while leadership was \"zoomed t…",
+      "url": "https://www.ign.com/articles/xbox-game-studios-head-matt-booty-redfall",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/03/16/redfall-preview-blog-a-1678977524943.jpg?width=1280",
+      "publishedAt": "2023-06-13T14:01:39Z",
+      "content": "Xbox has had a challenging couple of years, to say the least. \r\nRedfall recently launched to middling reviews and criticism of the game's bugs, co-op issues, and performance, at a time when Xbox was … [+3987 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": null,
+      "title": "'Hair,' 'Everwood' actor Treat Williams dies after Vermont motorcycle crash - The Associated Press",
+      "description": "DORSET, Vt. (AP) — Actor Treat Williams, whose nearly 50-year career included starring roles in the TV series “Everwood” and the movie “Hair,” died Monday after a motorcycle crash in Vermont, state police said.",
+      "url": "https://apnews.com/article/treat-williams-motorcycle-crash-vermont-everwood-0702205e46e9b24114d8fb7e62fa8c0a",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e3a0744628854f0f940c2790f1bb3bf2/3000.webp",
+      "publishedAt": "2023-06-13T13:54:44Z",
+      "content": "DORSET, Vt. (AP) Actor Treat Williams, whose nearly 50-year career included starring roles in the TV series Everwood and the movie Hair, died Monday after a motorcycle crash in Vermont, state police … [+2761 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "NBA Finals: Denver Nuggets, Nikola Jokic, Jamal Murray flip the narratives in the wake of their championship - CBS Sports",
+      "description": "In winning the title, Denver redefines some conceptions about pathways to greatness",
+      "url": "https://www.cbssports.com/nba/news/nba-finals-denver-nuggets-nikola-jokic-jamal-murray-flip-the-narratives-in-the-wake-of-their-championship/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/13/f34bcb21-92d1-47c8-b2f2-dc7c3e81c47f/thumbnail/1200x675/b45f304cf5e42a2d775d3169858c39a1/jokic-title-getty-1.png",
+      "publishedAt": "2023-06-13T13:31:00Z",
+      "content": "DENVER -- When it was over -- when the Denver Nuggets had finally bested the Miami Heat, the doubters, and their own obvious nerves -- Ball Arena erupted. Joy, sure, it was there, in its roaring appr… [+7310 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Matt Foster",
+      "title": "US Senate opens investigation into new partnership between PGA Tour and LIV Golf - CNN",
+      "description": "The US Senate opened an investigation into the proposed partnership between the PGA Tour and LIV Golf’s owners, the Saudi Arabian Public Investment Fund (PIF), on Monday. Democratic senator Richard Blumenthal issued both organizations with letters in his role…",
+      "url": "https://www.cnn.com/2023/06/13/sport/us-senate-open-investigation-pga-liv-spt-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230606125853-02-liv-golf-merger-221030.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-06-13T13:24:00Z",
+      "content": "The US Senate opened an investigation into the proposed merger between the PGA Tour and LIV Golfs owners, Saudi Arabias Public Investment Fund (PIF), on Monday.\r\nDemocratic Sen. Richard Blumenthal is… [+3324 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Former House Speaker Paul Ryan on Trump indictment - CBS Mornings",
+      "description": "Former Speaker of the House Paul Ryan joins \"CBS Mornings\" to discuss the indictment of former President Donald Trump on federal charges related to his handl...",
+      "url": "https://www.youtube.com/watch?v=J7GRIV9B3nM",
+      "urlToImage": "https://i.ytimg.com/vi/J7GRIV9B3nM/maxresdefault.jpg",
+      "publishedAt": "2023-06-13T13:22:56Z",
+      "content": null
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Paul Davidson, Medora Lee, Brett Molina",
+      "title": "CPI report data shows inflation drops to 4%: live updates - USA TODAY",
+      "description": "CPI report shows inflation fell to 4% in May, a new 2-year low, as gas prices, food price gains eased. Core consumer price increases remained high.",
+      "url": "https://www.usatoday.com/story/money/economy/2023/06/13/cpi-inflation-data-today-live-updates/70314308007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/13/USAT/d319ec4f-e01d-48ee-8cc9-bb18120f985b-GTY_1497959058.jpg?crop=5999,3375,x0,y305&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2023-06-13T12:47:08Z",
+      "content": "Americans struggling with a two-year inflation run-up continue to get some relief from two of the biggest drivers -- at the gas pump and in grocery stores.\r\nOther costs, especially rent, are still cl… [+8713 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "The New Voice of Ukraine",
+      "title": "Russian troops accidentally film themselves blowing up while joyriding through Ukrainian field - Yahoo News",
+      "description": "Russian invaders taking an armored vehicle for a joyride through a Ukrainian field might be frontrunners for this year’s Darwin Award after appearing in a...",
+      "url": "https://news.yahoo.com/russian-troops-accidentally-film-themselves-124000597.html",
+      "urlToImage": "https://media.zenfs.com/en/the_new_voice_of_ukraine_articles_294/68783dd9e4b272a4b8808c607cefdb66",
+      "publishedAt": "2023-06-13T12:40:00Z",
+      "content": "Before the detonation, the occupiers pathetically posed with the flag of the Russian Federation\r\nWhile clearly enjoying the ride, the ending likely wasnt so happy after the crew drove over a landmine… [+708 chars]"
+    },
+    {
+      "source": { "id": null, "name": "South Bend Tribune" },
+      "author": "Ed Semmler",
+      "title": "$3.5 billion plant is one of the largest projects in Indiana history - South Bend Tribune",
+      "description": "GM/Samsung battery plant should result in thousands of construction jobs, more than 1,600 permanent positions and more development in the future.",
+      "url": "https://www.southbendtribune.com/story/business/2023/06/13/3-5-billion-plant-is-one-of-the-largest-projects-in-indiana-history/70315826007/",
+      "urlToImage": "https://www.southbendtribune.com/gcdn/presto/2022/09/26/NSBT/83315905-40e8-4617-85df-03e85dab2b9e-050-UltiumCells_June.jpg?crop=3986,2243,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2023-06-13T12:11:15Z",
+      "content": "After more than 1½ years of work, St. Joseph County has landed the largest economic development in its history and possibly the states. \r\nGov. Eric Holcomb announced Tuesday morning that General Moto… [+4453 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Nottingham van attack investigated as major incident by police; 3 killed - The Washington Post",
+      "description": null,
+      "url": "https://families.google.com/service-restricted",
+      "urlToImage": null,
+      "publishedAt": "2023-06-13T12:04:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Lisa Respers France",
+      "title": "Ezra Miller thanks supporters for their ‘grace’ at ‘The Flash’ premiere - CNN",
+      "description": "Ezra Miller made their first public appearance Monday after facing some upheaval last year.",
+      "url": "https://www.cnn.com/2023/06/13/entertainment/ezra-miller-speaks/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230613114653-ezra-miller-flash-061223.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-06-13T11:59:00Z",
+      "content": "Ezra Miller made their first public appearance Monday after facing some upheaval last year. \r\nThe actor, who is nonbinary and uses they/them pronouns, walked the red carpet at the Hollywood premiere … [+801 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Who will replace 'Wheel of Fortune' host Pat Sajak? #WakeUpCLT To Go - WCNC",
+      "description": "Pat Sajak, the longtime host of the popular syndicated game show \"Wheel of Fortune,\" announced Monday that the upcoming 41st season will be his last.\"Well, t...",
+      "url": "https://www.youtube.com/watch?v=2OZgpuwlkr4",
+      "urlToImage": "https://i.ytimg.com/vi/2OZgpuwlkr4/maxresdefault.jpg",
+      "publishedAt": "2023-06-13T11:50:02Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Nouran Salahieh,Celina Tebor",
+      "title": "Officials work to identify remains recovered from the wreckage of the I-95 collapse in Philadelphia as demolition work begins - CNN",
+      "description": "Authorities are working to identify a body recovered from the wreckage of the Interstate 95 collapse in Philadelphia, where crews have started around-the-clock efforts to demolish the crumbled East Coast artery that could take months to rebuild.",
+      "url": "https://www.cnn.com/2023/06/13/us/philadelphia-i95-collapse-fire-tuesday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230613063544-i95-collapse-debris-pa-file-061223.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-06-13T11:28:00Z",
+      "content": "Authorities are working to identify a body recovered from the wreckage of the Interstate 95 collapse in Philadelphia, where crews have started around-the-clock efforts to demolish the crumbled East C… [+6917 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Moscow Times" },
+      "author": "AFP",
+      "title": "Russia Says German Leopard Tanks, U.S. Bradleys Captured in Ukraine - The Moscow Times",
+      "description": "Moscow said Tuesday that it had captured several German Leopard tanks and U.S.",
+      "url": "https://www.themoscowtimes.com/2023/06/13/russia-says-german-leopard-tanks-us-bradleys-captured-in-ukraine-a81492",
+      "urlToImage": "https://static.themoscowtimes.com/image/og/26/81492__26be735080c109e08f5081b9adef306f.jpg",
+      "publishedAt": "2023-06-13T10:23:07Z",
+      "content": "Moscow said Tuesday that it had captured several German Leopard tanks and U.S. Bradley infantry fighting vehicles, releasing footage showing Russian troops surveying the equipment supplied to Ukraine… [+726 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SamMobile" },
+      "author": "SamMobile, Mihai Matei",
+      "title": "Galaxy Z Fold 5 and Z Flip 5 SIM card configuration leaks - SamMobile - Samsung news",
+      "description": "Samsung is making preparations to unveil its next-gen foldable phones soon. The company has hinted at a late-July launch at ...",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-flip-5-sim-card-configuration-leaks/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/04/Galaxy-Z-Fold-5-renders-2-720x432.jpg",
+      "publishedAt": "2023-06-13T10:00:00Z",
+      "content": "Samsung is making preparations to unveil its next-gen foldable phones soon. The company has hinted at a late-July launch at Unpacked, and now, regulatory agencies have more or less confirmed that the… [+1875 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": null,
+      "title": "Denver shooting: 10 wounded after Nuggets win and suspect taken into custody, police say - The Associated Press",
+      "description": "Ten people were wounded in a mass shooting early Tuesday in Denver in an area where basketball fans had been celebrating the Nuggets first NBA title win, police said. A suspect was taken into custody.",
+      "url": "https://apnews.com/article/denver-shooting-nuggets-suspect-ee4869abf1afee855565f1c517bfae1f",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/a218a8f2f49b45bbb0f4bb3706604798/3000.webp",
+      "publishedAt": "2023-06-13T09:58:26Z",
+      "content": "DENVER (AP) Ten people were wounded in a mass shooting early Tuesday in Denver in an area where basketball fans had been celebrating the Nuggets first NBA title win, police said, and a suspect was ta… [+1166 chars]"
+    },
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Ariana Baio",
+      "title": "Chris Christie compares ‘loser’ ex-president to Voldemort and says evidence is ‘damning’ during CNN town hall - The Independent",
+      "description": "Chris Christie let rip on his one-time friend Trump in the town hall with Anderson Cooper on Monday night",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/chris-christie-town-hall-cnn-latest-b2356454.html",
+      "urlToImage": "https://static.independent.co.uk/2023/06/13/01/Screenshot202023-06-1220at205.15.3620PM.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-06-13T09:30:00Z",
+      "content": "Sign up for the daily Inside Washington email for exclusive US coverage and analysis sent to your inbox\r\nGet our free Inside Washington email\r\nFormer New Jersey governor and 2024 presidential candida… [+7185 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Salon" },
+      "author": "Matthew Rozsa",
+      "title": "NASA is looking for microbial life on the Moon. We might have left it behind - Salon",
+      "description": "There may be microbial life hidden in Moon craters — and, indeed, throughout the Universe",
+      "url": "https://www.salon.com/2023/06/13/nasa-is-looking-for-microbial-life-on-the-moon-we-might-have-left-it-behind/",
+      "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2021/09/moon-0903211.jpg",
+      "publishedAt": "2023-06-13T09:30:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "The Athletic" },
+      "author": "Brody Miller",
+      "title": "Inside LACC, the U.S. Open golf course that generations have kept a secret - The Athletic",
+      "description": "Los Angeles Country Club will be seen by many for the first time this week since an extensive renovation in 2010.",
+      "url": "https://theathletic.com/4604651/2023/06/13/us-open-golf-lacc-history/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/06/12201350/0613_LACountryClub-scaled.jpg",
+      "publishedAt": "2023-06-13T09:01:52Z",
+      "content": "LOS ANGELES There was nothing but oil fields and dirt roads around it, just a golf course seemingly built in plain sight but destined to be hidden. Soon the buildings went up and the people came in a… [+8521 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "Obesity May Permanently Change the Brain – Yale Study Finds Severely Impaired Response to Nutrients - SciTechDaily",
+      "description": "A new research study reveals a diminished response to nutrients among people with obesity — and that this brain response is not recovered after weight loss. After a person eats, the gut dispatches a series of signals to the brain conveying the presence of nut…",
+      "url": "https://scitechdaily.com/?p=285761",
+      "urlToImage": "https://scitechdaily.com/images/Brain-Signals-Improvement-Concept.jpg",
+      "publishedAt": "2023-06-13T08:34:50Z",
+      "content": "ByMallory Locklear, Yale UniversityJune 13, 2023\r\nResearchers from Yale found that obesity is associated with diminished brain response to nutrient intake, which doesnt recover even after weight loss… [+6056 chars]"
+    }
+  ]
+}
